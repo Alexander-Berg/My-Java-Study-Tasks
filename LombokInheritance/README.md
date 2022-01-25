@@ -1,0 +1,2 @@
+# LombokInheritance
+ OOP4
